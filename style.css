@@ -108,9 +108,9 @@ body{
 }
 
 .container-corpo{
-   background-color:black;
-   right: 250px;
-   width: 350px;
+  background-color:black;
+  right: 250px;
+  width: 350px;
   padding: 100px;
   border-radius: 30%;
   z-index: -1;
